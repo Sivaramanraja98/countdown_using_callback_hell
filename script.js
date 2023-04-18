@@ -41,7 +41,7 @@ setTimeout(() => {
                                             time.style.fontSize = "28px";
                                             time.style.maxWidth = "400px";
                                             time.className = "badge badge-pill badge-dark";
-                                            time.innerHTML = "Happy independence Day!"
+                                            time.innerHTML = "Happy independence Day"
                                             
                                         },1000)
                                     },1000)
